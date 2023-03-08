@@ -85,7 +85,7 @@ checkBox = () => {
    });
  }
 
- /* update item when edit */
+
   updateItem = (task, i) => {
     this.data[i].task = task;
     this.save();
