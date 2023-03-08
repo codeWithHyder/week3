@@ -1,1 +1,1 @@
-IT IS JUST CHECK TO MaKE PULL REQUESTS comaprable
+it is the repository for review of TO DO LIST application
